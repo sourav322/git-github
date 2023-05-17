@@ -22,3 +22,5 @@ toml==0.10.2
 urllib3==1.26.7
 wikipedia==1.4.0
 youtube-search-python==1.5.1
+psycopg2
+psycopg2-binary
